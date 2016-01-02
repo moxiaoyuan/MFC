@@ -1,0 +1,42 @@
+﻿生成启动时间为 2015/12/1 10:31:54。
+     1>项目“C:\Users\Administrator\Desktop\zuoye\2015N9Y28R20131105832\2015N9Y28R20131105832\2015N9Y28R20131105832.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\2015N9Y28R20131105832.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         f:\Visual Studio\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\2015N9Y28R20131105832.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         f:\Visual Studio\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\2015N9Y28R20131105832.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 2015N9Y28R20131105832.cpp 2015N9Y28R20131105832Dlg.cpp
+         2015N9Y28R20131105832Dlg.cpp
+     1>c:\users\administrator\desktop\zuoye\2015n9y28r20131105832\2015n9y28r20131105832\2015n9y28r20131105832dlg.cpp(177): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+     1>c:\users\administrator\desktop\zuoye\2015n9y28r20131105832\2015n9y28r20131105832\2015n9y28r20131105832dlg.cpp(215): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+         2015N9Y28R20131105832.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\2015N9Y28R20131105832.res" 2015N9Y28R20131105832.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\2015N9Y28R20131105832.exe.embed.manifest.res" Debug\2015N9Y28R20131105832_manifest.rc 
+       Link:
+         f:\Visual Studio\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\zuoye\2015N9Y28R20131105832\Debug\2015N9Y28R20131105832.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\2015N9Y28R20131105832.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\zuoye\2015N9Y28R20131105832\Debug\2015N9Y28R20131105832.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\zuoye\2015N9Y28R20131105832\Debug\2015N9Y28R20131105832.lib" /MACHINE:X86 Debug\2015N9Y28R20131105832.res
+         Debug\2015N9Y28R20131105832.exe.embed.manifest.res
+         Debug\2015N9Y28R20131105832.obj
+         Debug\2015N9Y28R20131105832Dlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         正在删除文件“Debug\2015N9Y28R20131105832.exe.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\2015N9Y28R20131105832.exe.embed.manifest" /manifest Debug\2015N9Y28R20131105832.exe.intermediate.manifest "f:\Visual Studio\VS2010\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\2015N9Y28R20131105832.exe.embed.manifest.res" Debug\2015N9Y28R20131105832_manifest.rc 
+       LinkEmbedManifest:
+         f:\Visual Studio\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\zuoye\2015N9Y28R20131105832\Debug\2015N9Y28R20131105832.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\2015N9Y28R20131105832.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\zuoye\2015N9Y28R20131105832\Debug\2015N9Y28R20131105832.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\zuoye\2015N9Y28R20131105832\Debug\2015N9Y28R20131105832.lib" /MACHINE:X86 Debug\2015N9Y28R20131105832.res
+         Debug\2015N9Y28R20131105832.exe.embed.manifest.res
+         Debug\2015N9Y28R20131105832.obj
+         Debug\2015N9Y28R20131105832Dlg.obj
+         Debug\stdafx.obj
+         2015N9Y28R20131105832.vcxproj -> C:\Users\Administrator\Desktop\zuoye\2015N9Y28R20131105832\Debug\2015N9Y28R20131105832.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\2015N9Y28R20131105832.unsuccessfulbuild”。
+         正在对“Debug\2015N9Y28R20131105832.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\zuoye\2015N9Y28R20131105832\2015N9Y28R20131105832\2015N9Y28R20131105832.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.35
